@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32474b1b-8c37-4b3f-a498-7ad46a790150" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1task4lesson.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-2tasks.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/заглушка" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
