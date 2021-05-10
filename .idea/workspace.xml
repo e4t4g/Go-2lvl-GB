@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24f0a80c-3dfb-42d0-a441-ef269611a05e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2task6leson.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3task6lesson.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Go-2lvl-GB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Go-2lvl-GB.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
